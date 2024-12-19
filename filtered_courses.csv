@@ -1,0 +1,36 @@
+id,name,difficulty_level,category_id,lecturer_id
+c15ff891-9129-41a5-b85f-e687fc4c5213,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+b408c117-5f53-4bff-9e0c-3d069685536f,32135135,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+9c05c92e-45e3-4e4d-b4ac-f5f4c0ea5c99,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+4842e41d-9f78-4e40-b359-0ab6c4a6382a,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+a180ec7d-73d9-453d-9dfc-e18400b9efd9,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+a805c136-ba5a-47bf-a1b8-519a1104414f,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+66c93332-3e00-44bf-b8a7-853549b30aa7,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+4ee424a6-48c3-4f84-b89a-119a51557c92,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+4c9add54-237a-402d-a1ae-4eaf6c327359,32135135,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+ebe4337e-e739-4b0d-b2b2-5ea07a57ca65,32135135,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+6cb94251-592f-4cdf-b66d-4344db83a341,Thiet ke trang phuc T1,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+6a26b34c-067f-4444-882c-1e657b1f5f8f,Khoa Khung,easy,66f73da5-ac8a-468c-ae99-a6952b45410d,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+469d5513-81d6-43c8-ae81-edbd778966be,Lập trình Golang Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+619298f1-adbf-44a6-ac16-3ff7f9bd1680,Khoa Khung,easy,66f73da5-ac8a-468c-ae99-a6952b45410d,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+887eb05d-d66b-4862-bc5d-b3e689f95166,ReactJS mới nhất 2022,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+96eed2aa-f9d7-4348-afaa-c2a3921974bd,Thiet ke trang phuc T1,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+322d11e5-54b4-40ad-bdf2-d2a9fdb3a408,Lập trình NodeJS Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+0f855ee9-6346-4e99-ae5a-8f9db7626172,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+29b9a76e-b5a1-437a-ae38-4f53c172232c,ReactJS mới nhất 2022,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+acd61539-f922-4117-a420-eef51bbbd2d7,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+95eabf10-5a9a-45db-ab13-9c37c390b4c2,Devops cho người mới bắt đầu,medium,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+2d6872c9-b890-4d8d-9434-fbc6efccdd62,Test tạo khoá học,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+30d2b059-716e-445e-ad20-bd7341d7adda,Lập trình C++ từ cơ bản đến nâng cao,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+92d6a9c2-ea6f-42d3-8903-0187f4af2ff3,Lập trình Java Spring Boot Backend cho người mới bắt đầu,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+81790ad0-806f-400a-86f2-0a95b62c7ab8,TestCreate 16/12,easy,4f779a58-a252-4e33-9fe1-23c2224a2030,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+c5bcd53f-a8c5-4f76-8fc7-288705cac018,Test sáng 16/12/2024 2,easy,8cb171f0-25a3-4339-a894-e872a21848a0,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+1d3074c1-a3a6-4066-8594-8fa5900a3e87,Javascrip cơ bản,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+fafd109d-1b61-4c0a-a0eb-5295463a4dfb,Test sáng 16/12/2024,easy,550e8400-e29b-41d4-a716-446655440000,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+0612e4a6-e077-4ffb-8161-f62edaab1a1f,Javascript nâng cao,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+70f34439-83bf-4a09-bc0f-39a1c9d2109f,Javascript nâng cao,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+82650084-8b9a-403e-b940-5c711257e001,Test sáng 16/12/2024,easy,550e8400-e29b-41d4-a716-446655440000,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+53980d5d-d688-4f7a-a6c1-e4b398414628,Test sáng 16/12/2024 3,easy,4f779a58-a252-4e33-9fe1-23c2224a2030,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+d08e2c7b-0030-43f1-b6a4-7cebd2beb7db,ReactJS mới nhất 2022,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+7082cf6c-5a39-4c40-a184-4b83e66f89dc,Lập trình C# cơ bản,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
+3c7e4cc0-461b-43c3-95ba-74936720383b,HTML & CSS,easy,295debd3-b85b-43c4-a00e-26eed191c305,54d7b28e-0444-4ed4-8973-e5a2d9abb692
